@@ -1,7 +1,7 @@
 version: '2'
 
 services:
-  express-mongoose-es6-rest-api:
+  revive-server:
     build:
       context: .
     volumes:
